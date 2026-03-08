@@ -148,14 +148,14 @@ These are portfolio pieces — they need to look like something a client would p
 
 ## About
 
-Built by **Adu Grand** — founder of [EU StudyAssist](https://eustudyassist.com), Lead R Instructor,
-and data visualization practitioner working across education, environmental research, and
-international student mobility.
+Built by **Olamide Adu** — founder of [EU StudyAssist](https://eustudyassist.com), Lead R Instructor,
+and a data visualization practitioner working across education, environmental research, and
+International student mobility.
 
 Available for freelance data visualization projects on Upwork.
 
 **Tools:** R · Python · Shiny · Streamlit · Quarto · ggplot2 · Plotly · SQL · GIS
-**Contact:** *(your contact / Upwork profile link)*
+**Contact:** *(oadumichael@gmail.com*
 
 ---
 
